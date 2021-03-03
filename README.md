@@ -1,4 +1,5 @@
-****APS360: Applied Fundamentals of Machine Learning**** \
+# CSC384
+Applied Fundamentals of Machine Learning
 \
 **Lab1:** PyTorch and ANNs \
 **Lab2:** Cats vs Dogs \
