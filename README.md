@@ -1,5 +1,5 @@
 # CSC384
-Applied Fundamentals of Machine Learning
+Applied Fundamentals of Machine Learning \
 \
 **Lab1:** PyTorch and ANNs \
 **Lab2:** Cats vs Dogs \
