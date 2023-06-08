@@ -1,4 +1,4 @@
-# CSC384
+# APS360
 Applied Fundamentals of Machine Learning \
 \
 **Lab1:** PyTorch and ANNs \
